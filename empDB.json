@@ -1,0 +1,33 @@
+{
+  "employes": [
+    {
+      "id": 1,
+      "name": "manoj",
+      "email": "manoj@gmail.com",
+      "password": "Test@123"
+    },
+    {
+      "id": 2,
+      "name": "naveen",
+      "email": "naveenreddy@gmail.com",
+      "password": "Naveen@123"
+    },
+    {
+      "id": 3,
+      "name": "manoj",
+      "email": "dinesh23@gmail.com",
+      "password": "Dinesh@456"
+    },
+    {
+      "id": 4,
+      "name": "nani",
+      "email": "nani410@gmail.com",
+      "password": "Nani@039"
+    },
+    {
+      "name": "Gunjan",
+      "salary": 25000,
+      "id": 5
+    }
+  ]
+}
